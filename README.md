@@ -1,6 +1,6 @@
 <h1 align="center" id="title">NYX TOKEN CHECKER</h1>
 
-<p id="description">This is the official free nyx token checker</p>
+<p id="description">This is the official free nyx token checker **ONLY WORKS FOR WINDOWS**</p>
 
 <h2>Project Screenshots:</h2>
 
