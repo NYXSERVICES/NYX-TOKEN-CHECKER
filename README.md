@@ -28,7 +28,7 @@ Here're some of the project's best features:
 <p>2. install libarires</p>
 
 ```
-pip install colorama pystyle
+pip install colorama pystyle requests
 ```
 
 <h2>🍰 Contribution Guidelines:</h2>
