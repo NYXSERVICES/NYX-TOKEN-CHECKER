@@ -8,7 +8,7 @@
 
   
   
-<h2>🧐 Features</h2>
+<h2>Features</h2>
 
 Here're some of the project's best features:
 
@@ -31,6 +31,6 @@ Here're some of the project's best features:
 pip install colorama pystyle requests
 ```
 
-<h2>🍰 Contribution Guidelines:</h2>
+<h2>Contribution Guidelines:</h2>
 
 if you have updated the checker and fixed bugs please join the discord server discord.gg/nyxservices and dm the owner
